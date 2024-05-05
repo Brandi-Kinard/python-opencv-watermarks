@@ -2,6 +2,9 @@
 
 Python script to effortlessly add watermarks to images using OpenCV.
 
+![watermarked_method_1](https://github.com/Brandi-Kinard/python-opencv-watermarks/assets/52756042/b5747209-34e8-41e0-920d-37b547cde03d)
+
+
 ## Overview
 This project demonstrates how to implement watermarking on images using Python and OpenCV. Watermarking is crucial for both protecting and branding digital media. This repository provides a detailed Jupyter notebook that guides you through the process of adding both opaque and semi-transparent watermarks to images.
 
