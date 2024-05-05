@@ -38,5 +38,4 @@ pip install numpy opencv-python matplotlib
 If you want to add more, Please don't hesitate to open a [pull request](https://github.com/Brandi-Kinard/python-opencv-watermarks/pulls).
 
 ## 👋 Get in Touch
-
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandi-kinard)
