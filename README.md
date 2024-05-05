@@ -32,7 +32,7 @@ pip install numpy opencv-python matplotlib
 ```
 
 ## For the Future
-If you want to add more, Please don't hesitate to open a pull request.
+If you want to add more, Please don't hesitate to open a [pull request](https://github.com/Brandi-Kinard/python-opencv-watermarks/pulls).
 
 ## 👋 Get in Touch
 <div id="badges">
