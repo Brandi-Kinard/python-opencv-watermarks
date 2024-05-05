@@ -36,3 +36,8 @@ If you want to add more, Please don't hesitate to open a pull request.
 
 ## 👋 Get in Touch
 linkedin-URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5? style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandi-kinard/) [6]
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/brandi-kinard/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
