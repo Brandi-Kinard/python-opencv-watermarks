@@ -1,13 +1,14 @@
-## Image Watermarking with OpenCV
+# Image Watermarking with OpenCV
+
 Python script to effortlessly add watermarks to images using OpenCV.
 
-# Overview
+## Overview
 This project demonstrates how to implement watermarking on images using Python and OpenCV. Watermarking is crucial for both protecting and branding digital media. This repository provides a detailed Jupyter notebook that guides you through the process of adding both opaque and semi-transparent watermarks to images.
 
-# Why is this project useful?
+## Why is this project useful?
 This project is useful for anyone looking to understand or implement digital image processing techniques, specifically in the area of digital rights management. Whether you're a hobbyist photographer looking to protect your images or a developer needing to automate watermarking in software applications, this project provides a robust starting point.
 
-# How to Use This Project
+## How to Use This Project
 To get started, clone this repository to your local machine or download the Jupyter notebook. You'll need Python installed, along with OpenCV and Matplotlib. The notebook is self-contained and provides step-by-step instructions and explanations for:
 
 1. Reading and displaying images and logos.
